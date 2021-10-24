@@ -3,7 +3,7 @@ const LinksSocialMedia = {
     youtube: 'channel/UC8ozobZ5QdLUq61Ot_LTvng',
     facebook: 'bianca.malta.395',
     instagram: 'atlam._/',
-    twitter: 'BiancaAtlam'
+    twitter: 'atlam_'
 }
 
 function changeSocialMediaLinks() {
