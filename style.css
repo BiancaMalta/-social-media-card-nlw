@@ -8,7 +8,7 @@ body {
     );
     --grey: hsl(240, 9%, 89%, 1);
     height: 100%;
-    font-family: 'Robuto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     -webkit-animation-smoothing: antialiased;
 }
 
